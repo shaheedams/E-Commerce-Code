@@ -1,0 +1,8 @@
+.homeContainer{
+    width: 100%;
+    display: flex;
+    justify-content: center;
+}
+.hover:hover{
+    transform: scale(1.1);
+}

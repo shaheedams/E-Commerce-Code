@@ -1,0 +1,10 @@
+export const mens = [{
+    title: "https://assets.ajio.com/medias/sys_master/images/images/h0e/hfe/34360753881118/05082021-D-MHP-discoveronlinestores-strip.jpg",
+    products:["https://assets.ajio.com/medias/sys_master/images/images/h3f/hd2/34360754798622/05082021-D-MHP-discoveronlinestores-trends.jpg","https://assets.ajio.com/medias/sys_master/images/images/h43/h84/34360755060766/05082021-D-MHP-discoveronlinestores-ajiogold.jpg","https://assets.ajio.com/medias/sys_master/images/images/h6d/h44/34360755290142/05082021-D-MHP-discoveronlinestores-weddingdiaries.jpg","https://assets.ajio.com/medias/sys_master/images/images/had/h5a/34360755519518/05082021-D-MHP-discoveronlinestores-sneakerhood.jpg"]
+},{
+    title: "https://assets.ajio.com/medias/sys_master/images/images/h7c/h47/34360757452830/05082021-D-MHP-brands-premium-strip.jpg",
+    products:["https://assets.ajio.com/medias/sys_master/images/images/h08/h5a/34363786231838/05082021-D-MHP-brands-premium-jackandjones-min50.jpg","https://assets.ajio.com/medias/sys_master/images/images/ha9/h6e/34363786461214/05082021-D-MHP-brands-premium-puma-upto70.jpg","https://assets.ajio.com/medias/sys_master/images/images/h0e/h23/34363786330142/05082021-D-MHP-brands-premium-underarmour-upto40.jpg","https://assets.ajio.com/medias/sys_master/images/images/he7/h1d/34363786526750/05082021-D-MHP-brands-premium-spykar-min50.jpg"]
+},{
+    title: "https://assets.ajio.com/medias/sys_master/images/images/h62/h66/34360757518366/05082021-D-MHP-brands-flaunt-strip.jpg",
+    products:["https://assets.ajio.com/medias/sys_master/images/images/h16/h96/34363788001310/05082021-D-MHP-brands-flaunt-allensolly-min40.jpg","https://assets.ajio.com/medias/sys_master/images/images/h7b/hb9/34363787411486/05082021-D-MHP-brands-flaunt-johnplayers-upto70.jpg","https://assets.ajio.com/medias/sys_master/images/images/h75/h69/34363790163998/05082021-D-MHP-brands-flaunt-replay-3050.jpg","https://assets.ajio.com/medias/sys_master/images/images/hbd/h54/34363790295070/05082021-D-MHP-brands-flaunt-alltheory-upto60.jpg"]
+}]
